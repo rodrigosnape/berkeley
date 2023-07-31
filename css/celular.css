@@ -1,0 +1,595 @@
+.rv_menu_celular_bloco{
+  padding-left: 15px;
+}
+
+.rv_menu_celular_bloco a{
+  padding-left: 15px;
+  color:#fff;
+}
+
+.rv_menu_celular_bloco li{
+  padding: 10px 25px;
+
+}
+
+.shiftnav-search .shiftnav-searchform {
+    margin: 10px;
+    font-size: 18px !important;
+}
+
+@media (max-width: 992px){
+
+  main{
+    margin-top: 97px;
+  }
+
+  .rv_barra_topo{
+    display: none;
+  }
+
+  .rv_logo_cel{
+  /*max-height: 75px;
+  margin-top: -8px;*/
+  max-width: 250px;
+  padding-right: 10px;
+  }
+
+
+
+  #shiftnav-toggle-main{
+    padding-top:20px !important;
+    padding-bottom: 13px !important;
+    box-shadow: 0 1px 12px 0 rgba(0,0,0,.2);
+      /*box-shadow: 0 1px 12px 0 red;
+      #005363
+      */
+  }
+
+
+  .shiftnav-main-toggle-content.shiftnav-toggle-main-block{
+  padding: 0 !important;
+  }
+
+  #shiftnav-toggle-main-button{
+    background: #fff !important;
+
+    border: 2px solid 0 !important;
+    /*margin-left: 10px !important;*/
+  }
+
+  .shiftnav.shiftnav-skin-standard-dark ul.shiftnav-menu ul.sub-menu ul.sub-menu li.menu-item > .shiftnav-target {
+      padding-left: 30px !important;
+  }
+
+  .crellyslider, .cs-slides, .cs-slides li{
+    height: 240px;
+  }
+
+
+
+/*
+  #meunu-menu-principal{
+    width: 75%;
+  }
+
+  #menu-menu-principal a{
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }*/
+
+}/*@media 992*/
+
+
+@media (max-width: 768px) {
+
+  /*Provisório*/
+
+  .rv_sobre_profissionais .rv_sobre_esquerda{
+    border: none;
+  }
+
+  .rv_sobre_primeiro .rv_imagem{
+    display: none;
+  }
+
+
+
+
+html, body{
+  height: 100%;
+}
+
+header{
+
+}
+
+#shiftnav-toggle-main{
+  /*top:20px !important;*/
+  /*background: #fff !important;*/
+
+}
+
+
+
+.shiftnav ul.shiftnav-menu li.menu-item{
+  background: #595b5a !important;
+
+}
+
+
+.shiftnav ul.shiftnav-menu li.menu-item:hover{
+
+}
+
+
+
+
+/*#002a3e*/
+
+.content-area{
+  overflow-x:hidden;
+}
+
+.rv_barra_topo{
+  /*30/ height: 14%;*/
+  /*height: 100px;
+  /*box-shadow: none;*
+  border-bottom: none;
+  /*background: green;*/
+  /*30/padding-bottom: 20px;
+  padding-bottom: 20px;*/
+}
+
+.rv_header_logo{
+  /*30/ top:10px !important;*/
+  top:15px !important;
+
+}
+
+
+.rv_barra_topo li a{
+  /*padding-top: 5px !important;
+  padding-bottom: 5px !important;*/
+}
+
+.rv_barra_topo img{
+  /*width: 35%;
+  border: none !important;
+  padding: 0 !important;*/
+}
+
+.navbar button{
+  margin-top: 7% !important;
+  margin-left: 7% !important;
+}
+
+.rv_barra_fixa{
+  display:none;
+}
+
+
+#menu-menu-principal{
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  padding-left: 7%;
+  padding-top: 10%;
+  width: 100%;
+}
+
+main{
+  /*margin-top: auto;*/
+}
+
+header button{
+  z-index: 1000;
+}
+
+/*
+Slider
+*/
+
+
+.crellyslider, .cs-slides, .cs-slides li{
+  height: 160px;
+}
+
+/*
+Home
+*/
+
+.rv_home_anuncio{
+  height: auto;
+  margin-top: 90px;
+}
+
+.rv_categoria_curso_bloco{
+  margin-top: 5%;
+}
+
+.rv_home_quemsomos_primeiro{
+  height: auto;
+  padding-top: 10%;
+  padding-bottom: 15%;
+}
+
+.rv_container_logo{
+  height: auto;
+}
+
+
+
+.rv_home_quemsomos_segundo{
+  height: auto;
+}
+
+.rv_home_quemsomos_segundo_esquerda{
+  position: relative;
+  height: auto;
+  width: auto;
+}
+
+.rv_home_quemsomos_segundo_direita{
+  width: auto;
+  float: none;
+  margin-top: 20%;
+  padding-bottom: 5%;
+}
+
+.rv_home_quemsomos_segundo_direita p{
+  font-size: 25px;
+  text-align: center;
+}
+
+.rv_home_quemsomos_segundo_direita span{
+  text-align: center;
+}
+
+#aspas{
+  width: 70%;
+  height: auto;
+}
+
+
+
+
+
+.rv_home_quemsomos_terceiro{
+  height: auto;
+  padding-bottom: 20px !important;
+}
+
+.rv_home_quemsomos_terceiro_esquerda{
+  width: 97%;
+  height: auto;
+  position: relative;
+}
+
+#info_numeros{
+  height: auto;
+}
+
+.rv_home_quemsomos_terceiro_direita{
+  float: none;
+  width: 100%;
+}
+
+
+.rv_home_quemsomos_quarto{
+  height: auto;
+}
+
+.rv_home_quemsomos_quarto_retangulo{
+  width: 100% !important;
+  padding-top: 20px;
+}
+
+.rv_home_quemsomos_quarto_retangulo .container{
+  width: 90%;
+  padding-bottom: 5%;
+}
+
+.rv_depoimento_bloco{
+  margin-top: 7%;
+}
+
+.rv_depoimento_bloco:nth-child(3){
+  display: none;
+}
+
+/*
+==Curso
+*/
+
+.rv_curso_imagem{
+  height: auto;
+}
+
+.rv_curso_beneficios .rv_texto{
+
+  font-size: 19px;
+}
+
+
+.rv_curso_direita_categoria{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.rv_curso_recomendacoes{
+  padding-bottom: 20px;
+}
+
+/*
+== Turmas
+*/
+
+.rv_turma_direita{
+  margin-top: 20px;
+}
+
+.rv_turma_imagem{
+  width: auto;
+}
+
+/*
+==Categorias
+*/
+
+.rv_categorias_trauma, .rv_categorias_beready, .rv_categorias_berkeley{
+  margin-top: 30px;
+}
+
+.rv_categorias_bloco .rv_conteudo .rv_imagem{
+  height: auto;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.rv_categorias_bloco .rv_conteudo .rv_texto{
+    padding-top: 10px;
+}
+
+.rv_categorias_bloco .rv_conteudo .rv_texto p{
+  height: auto;
+}
+
+.rv_categorias_bloco .rv_conteudo .rv_botao{
+  opacity: 1;
+}
+
+.rv_categorias_berkeley  img{
+  width: 70%;
+}
+
+.category-trauma .rv_pagina_titulo h1{
+  font-size: 40px;
+}
+
+/*
+==Agenda
+*/
+
+.rv_lista_categorias, .rv_lista_areas{
+  margin-top: 20px;
+}
+
+.rv_categoria_informacao .rv_imagem{
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.rv_atalho_experiencia_bloco .rv_conteudo .rv_texto {
+    border-right: none;
+}
+
+.rv_atalho_experiencia_bloco .rv_conteudo .rv_botao a{
+    width: 100%;
+}
+
+.rv_agenda_cidade_faixa p{
+  font-size: 15px;
+}
+.ribbon-wrapper {
+    width: 130px;
+}
+
+.rv_agenda_procurado h2 {
+    font-size: 25px;
+}
+
+
+
+/*
+== Experiência Berkeley
+*/
+
+.page-template-page-experiencia .rv_pagina_titulo h1{
+  font-size: 38px;
+}
+
+.rv_monte_sua_turma_bloco{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+.rv_monte_sua_turma_bloco h2{
+  text-align: center;
+}
+
+.rv_monte_seu_curso_bloco{
+  text-align: justify;
+}
+
+.rv_monte_seu_curso .rv_temas{
+  min-height: inherit;
+}
+
+
+/*
+Landing Page do congresso
+*/
+
+.rv_congresso_sobre_logo,
+.rv_congresso_berkeley_logo{
+  text-align: center;
+}
+
+.rv_congresso_sobre img,
+.rv_congresso_berkeley img{
+margin: 0 auto;
+margin-bottom: 30px;
+width: 80%;
+
+}
+
+/*
+==Rodapé
+*/
+
+
+.footer-menu li{
+  display: none;
+  text-align: center;
+}
+
+.rv_rodape_logo{
+  text-align: center;
+}
+
+.rv_rodape_logo img{
+  width: 50%;
+}
+
+.rv_rodape_newsletter {
+    margin-top: auto;
+    text-align: center;
+}
+
+.rv_rodape_newsletter h4{
+    text-align: center;
+ }
+
+ .rv_rodape_newsletter_formulario{
+   padding-left: 15px;
+   padding-right: 15px;
+ }
+ .rv_rodape_newsletter_email{
+  margin-top: 10px;
+ }
+
+ .rv_rodape_newsletter_formulario_botao{
+   border: 1px solid #fff !important;
+   margin-top: 20px;
+ }
+
+ .rv_rodape_midias ul{
+   text-align: center;
+   margin-top: 5%;
+   padding-left: 0;
+ }
+
+ .rv_rodape_midias li {
+  float: none;
+  display: inline;
+}
+
+.rv_rodape_midias img{
+  width: 40px;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+  .rv_desenvolvedor{
+    text-align: center;
+    margin-top: 3%;
+  }
+
+  /*
+  ==Página
+  */
+
+  .navbar.navbar-expand-lg.navbar-light{
+    /*padding:.5rem 1rem;*/
+  }
+
+  .rv_pagina_titulo{
+    height: auto;
+    margin-top: 100px;
+  }
+
+  .rv_pagina_titulo h1{
+    font-size: 45px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: auto;
+  }
+
+/*=========
+===Sobre===
+=========*/
+
+  .rv_sobre_primeiro .rv_imagem,
+  .rv_sobre_segundo .rv_imagem{
+    text-align: center;
+    margin-bottom: 0px;
+  }
+
+  .rv_sobre_primeiro .rv_imagem img{
+      width: 80%;
+      margin-bottom: 40px;
+  }
+
+  .rv_sobre_segundo .rv_imagem img{
+    width: 50%;
+    margin-top: 20px;
+  }
+
+  .rv_sobre_terceiro .rv_imagem img{
+    border: 5px solid #2d4f60;
+    border-radius: 20px;
+    width: 50%;
+  }
+
+  .rv_sobre_primeiro h2,
+  .rv_sobre_segundo h2,
+  .rv_sobre_quarto h2{
+    margin-bottom: 40px;
+    font-size: 30px;
+  }
+
+  .rv_sobre_missao,
+  .rv_sobre_visao,
+  .rv_sobre_valores{
+    margin-bottom: 30px;
+  }
+
+  .rv_sobre_profissionais{
+    margin-top: 30px;
+  }
+
+  .rv_sobre_profissionais h2{
+    font-size: 45px;
+    margin-bottom: 30px;
+  }
+
+  .rv_sobre_profissionais .rv_sobre_esquerda{
+    padding: 20px;
+  }
+
+  .flexslider-carousel{
+    display: none;
+  }
+
+  .rv_sobre_esquerda h3{
+    font-size: 40px;
+  }
+
+  .rv_sobre_esquerda p{
+    text-align: justify;
+  }
+
+  .rv_sobre_direita{
+    margin-top: 30px;
+  }
+
+}/*@media 768*/
